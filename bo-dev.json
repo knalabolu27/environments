@@ -9,6 +9,7 @@
       }
     },
     "neglectfiles": {
-      "file1": "xyz.java"
+      "file1": "xyz.java",
+      "file4": "cxz.jar"
     }
 }
