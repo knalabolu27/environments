@@ -1,0 +1,13 @@
+{
+    "default_attributes": {
+      "db": {
+        "listen_ports": [
+          "80",
+          "3245"
+        ]
+      }
+    },
+    "neglectfiles": {
+      "file3": "xyz.sql"
+    }
+}

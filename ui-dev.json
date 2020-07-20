@@ -1,0 +1,13 @@
+{
+    "default_attributes": {
+      "UI": {
+        "listen_ports": [
+          "80",
+          "5456"
+        ]
+      }
+    },
+    "neglectfiles": {
+      "file2": "ascd.js"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dev",
+  "default_attributes": {
+    "commonContent": {
+      "xyz": [
+        "1234",
+        "1234"
+      ]
+    }
+  },
+  "json_class": "Chef::Environment",
+  "description": "",
+  "cookbook_versions": {
+    "couchdb": "= 11.0.0"
+  },
+  "chef_type": "environment",
+  "neglectfiles": {
+  }
+}

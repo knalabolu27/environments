@@ -1,0 +1,14 @@
+{
+    "name": "dev",
+    "default_attributes": {
+      "bo": {
+        "listen_ports": [
+          "80",
+          "2345"
+        ]
+      }
+    },
+    "neglectfiles": {
+      "file1": "xyz.java"
+    }
+}
